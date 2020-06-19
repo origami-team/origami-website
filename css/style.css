@@ -1,26 +1,32 @@
+h1 {
+    color: #3880ff;
+    text-align: center;
+  }
+
+h2 {
+    color: #0cd1e8;
+    text-align: center;
+  }
+  
+p {
+  }
+
+a:link {
+    color: #3880ff;
+  }
+  
+a:visited {
+    color: #3880ff;
+  }
+  
+a:hover {
+    color: #ffce00;
+  }
+  
+a:active {
+    color: #0cd1e8;
+  }
+
 .bg_yellow {background-color: #ffce00;}
 
-.font_lightblue {color: #0cd1e8;}
-
-.font_darkblue {color: #3880ff;}
-
-    /* unvisited link */
-    a:link {
-      color: #0cd1e8;
-    }
-    
-    /* visited link */
-    a:visited {
-      color: #0cd1e8;
-    }
-    
-    /* mouse over link */
-    a:hover {
-      color: #ffce00;
-    }
-    
-    /* selected link */
-    a:active {
-      color: #3880ff;
-    }
-
+.bg-lightgrey {background-color: #d7d8da;}

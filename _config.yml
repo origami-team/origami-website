@@ -22,7 +22,7 @@ title: OriGami
 email: origami.ifgi@uni-muenster.de
 description: >- # this means to ignore newlines until "baseurl:"
   OriGami ist ein kartenbasiertes GeoGame für mobile Endger&auml;te (Tablets und Smartphones). Es wird draußen
-  gespielt – in St&auml;dten, in Parks, auf Plätzen, auf Schulgel&auml;nden, in Wohnsiedlungen und an jedem anderen
+  gespielt – in St&auml;dten, in Parks, auf Pl&auml;tzen, auf Schulgel&auml;nden, in Wohnsiedlungen und an jedem anderen
   erdenklichen Ort.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "origami.ifgi.de" # the base hostname & protocol for your site, e.g. http://example.com
