@@ -1,0 +1,26 @@
+.bg_yellow {background-color: #ffce00;}
+
+.font_lightblue {color: #0cd1e8;}
+
+.font_darkblue {color: #3880ff;}
+
+    /* unvisited link */
+    a:link {
+      color: #0cd1e8;
+    }
+    
+    /* visited link */
+    a:visited {
+      color: #0cd1e8;
+    }
+    
+    /* mouse over link */
+    a:hover {
+      color: #ffce00;
+    }
+    
+    /* selected link */
+    a:active {
+      color: #3880ff;
+    }
+
