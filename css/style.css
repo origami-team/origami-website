@@ -7,6 +7,20 @@ h2 {
     color: #0cd1e8;
     text-align: center;
   }
+
+h3 {
+    text-align: center;
+  }
+
+h4 {
+    text-align: center;
+    color: #ffce00;
+  }
+
+h6 {
+    color: #3880ff;
+    text-align: center;
+  }
   
 p {
   }
