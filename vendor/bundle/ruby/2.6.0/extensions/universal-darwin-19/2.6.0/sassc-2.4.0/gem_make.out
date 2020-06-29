@@ -1,5 +1,5 @@
 current directory: /Users/janina/Github_website/origami-website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200617-7117-urziwk.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200629-2729-e3tj2d.rb extconf.rb
 creating Makefile
 
 current directory: /Users/janina/Github_website/origami-website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
@@ -78,4 +78,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/janina/Github_website/origami-website/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20200617-7117-3sey2b/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20200629-2729-1p42tnr/sassc
