@@ -9,7 +9,8 @@ h2 {
   }
 
 h3 {
-    text-align: center;
+    color: #0cd1e8;
+    text-align: left;
   }
 
 h4 {
@@ -17,9 +18,19 @@ h4 {
     color: #ffce00;
   }
 
+h5 {
+    text-align: left;
+    color: #ffce00;
+  }
+
 h6 {
     color: #3880ff;
     text-align: center;
+  }
+
+h7 {
+    color: #3880ff;
+    text-align: left;
   }
   
 p {
