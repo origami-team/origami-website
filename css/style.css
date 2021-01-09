@@ -55,3 +55,29 @@ a:active {
 .bg_yellow {background-color: #ffce00;}
 
 .bg-lightgrey {background-color: #d7d8da;}
+
+b.handbuch {
+  color: #ffce00;
+}
+
+table.handbuch {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td.handbuch {
+padding: 5px;
+text-align: left;
+}
+
+.handbuch_table_img {
+  max-width: 60px;
+}
+
+td.handbuch_table_img {
+  text-align: center;
+}
+
+img.handbuch_table_img {
+  padding: 5px;
+}
