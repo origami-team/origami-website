@@ -2,7 +2,7 @@
 
 ## OriGami Website
 
-German OriGami Website on the location-based game [OriGami](https://github.com/origami-team/origami).
+Website of the location-based game [OriGami](https://github.com/origami-team/origami).
 
 [Visit the Website here](https://origami.ifgi.de)!
 
