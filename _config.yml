@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OriGami
-email: origami.ifgi@uni-muenster.de
+title: GeoGami
+email: geogami.ifgi@uni-muenster.de
 description: >- # this means to ignore newlines until "baseurl:"
-  OriGami ist ein kartenbasiertes GeoGame für mobile Endger&auml;te (Tablets und Smartphones). Es wird draußen
+  GeoGami ist ein kartenbasiertes Geogame für mobile Endger&auml;te (Tablets und Smartphones). Es wird draußen
   gespielt – in St&auml;dten, in Parks, auf Pl&auml;tzen, auf Schulgel&auml;nden, in Wohnsiedlungen und an jedem anderen
   erdenklichen Ort.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "origami.ifgi.de" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: OriGami_Ifgi
+twitter_username: 
 github_username:  origami-team
 
 # Build settings
