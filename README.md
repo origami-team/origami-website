@@ -1,8 +1,8 @@
 ![](https://origami.ifgi.de/pictures/logo/icon.png)
 
-## OriGami Website
+## GeoGami Website
 
-Website of the location-based game [OriGami](https://github.com/origami-team/origami).
+Website of the location-based game [GeoGami](https://github.com/origami-team/origami).
 
 [Visit the Website here](https://origami.ifgi.de)!
 
@@ -18,6 +18,6 @@ Heisenbergstraße 2
 
 48149 Münster
 
-**Mail:** origami.ifgi(at)uni-muenster.de
+**Mail:** geogami.ifgi(at)uni-muenster.de
 
 **Team:** https://origami.ifgi.de/kontakt.html#team
