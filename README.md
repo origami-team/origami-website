@@ -4,7 +4,7 @@
 
 Website of the location-based game [GeoGami](https://github.com/origami-team/origami).
 
-[Visit the Website here](https://origami.ifgi.de)!
+[Visit the Website here](https://geogami.ifgi.de)!
 
 ## Contact
 
@@ -20,4 +20,4 @@ Heisenbergstraße 2
 
 **Mail:** geogami.ifgi(at)uni-muenster.de
 
-**Team:** https://origami.ifgi.de/kontakt.html#team
+**Team:** https://geogami.ifgi.de/kontakt.html#team
